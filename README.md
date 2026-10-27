@@ -69,7 +69,6 @@ Cada tipo de archivo vive en su carpeta (HTML en la raíz y, dentro de `assets/`
 ## Trabajo con Git
 - Repositorio personal en GitHub: https://github.com/mmanquelaf/portafolio
 - Commits pequeños con mensajes convencionales: `feat:`, `fix:`, `docs:` y `style:`.
-- Cada cambio importante en su propia rama, que se une a `main` al terminarlo.
 
 ## Pendientes
 - Foto: reemplazar `assets/img/perfil.jpg` por mi foto real y cambiar el `alt` a «Retrato de Matías».
